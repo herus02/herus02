@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Herus</h1>
-<h3 align="center">A frontend developer from Brazil</h3>
+<h3 align="center">A Sênior frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [a microfrontend project](https://github.com/herus02/microfrontend)
+- 🔭 I’m currently working on [a Microfrontend (Single-SPA) project](https://github.com/herus02/mfe-single-spa)
 
-- 🌱 I’m currently learning **Java, Next.js and Nest.js**
+- 🌱 I’m currently learning **MFE, improving Node.js (Nest.js and Next.js). Then, Java and .NET**
 
-- 💬 Ask me about **Angular and Frontend development**
+- 💬 Ask me about **Angular, Frontend, Component Design Systems development**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/herusarmstrong/](https://www.linkedin.com/in/herusarmstrong/)
 
