@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Herus</h1>
 <h3 align="center">A Sênior frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [a Microfrontend (Single-SPA) project](https://github.com/herus02/mfe-single-spa) <small>I started on April 4th, 2025 and last update was April 14th, 2025</small>
+- 🔭 I’m currently working on [a Microfrontend (Single-SPA) project](https://github.com/herus02/mfe-single-spa) <br />(Started on April 4th, 2025 and last update was April 14th, 2025)
 
 - 🌱 I’m currently learning **MFE, improving Node.js (Nest.js and Next.js). Then, Java and .NET**
 
