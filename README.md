@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [a Microfrontend (Single-SPA) project](https://github.com/herus02/mfe-single-spa) <br />(Started on April 4th, 2025 and last update was April 21th, 2025)
 
-- 🌱 I’m currently learning **MFE, improving Node.js (Nest.js and Next.js). Then, Java and .NET**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Angular, Frontend, Component Design Systems development**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/herusarmstrong/](https://www.linkedin.com/in/herusarmstrong/)
 
-- ⚡ Fun fact **I don't know why Signals hasn't been widely used by developers yet.**
+- ⚡ Fun fact **I don't know why Angular Signals hasn't been widely used by developers yet.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
