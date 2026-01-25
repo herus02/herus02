@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/herusarmstrong/](https://www.linkedin.com/in/herusarmstrong/)
 
-- ⚡ Fun fact **I don't know why Angular Signals hasn't been widely used by developers yet.**
+- ⚡ Fun fact **I don't know why PHP isn't a mainstream language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
