@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Herus</h1>
 <h3 align="center">A Senior frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [a Microfrontend (Single-SPA) project](https://github.com/herus02/mfe-single-spa) <br />(Started on April 4th, 2025 and last update was April 21th, 2025)
+- 🔭 I’m currently working on a [Monorepo Nx Microfrontend (Module Federation) Ecommerce with Storybook](https://github.com/herus02/ecommerce-library-storybook-microfrontend-angular-20) <br />(Started on Feb 1st, 2026)
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Angular, Frontend, Component Design System development**
+- 💬 Ask me about **Angular, Frontend, Component Design System (component library) development**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/herusarmstrong/](https://www.linkedin.com/in/herusarmstrong/)
 
